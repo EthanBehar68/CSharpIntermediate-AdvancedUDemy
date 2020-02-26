@@ -9,5 +9,7 @@ While the work is not present, I went through and completed Mosh Hamedani's Adva
 
 I bought and completed this course to learn the advance topics of C#. I have dealt with a few of them already. Namely: Delegates, Lambda Expressions, Events, LINQ, and Extension Methods. The other topics I was completely new to but may have had past relevant experience. Namely: Generics, Nullable Types, Dynamic, Exception Handling, Asynchronous Programming with Async/Await.
 
+Certificates located in project folder.
+
 Link To Course: https://www.udemy.com/course/csharp-advanced/
 
