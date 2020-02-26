@@ -4,7 +4,6 @@ The work I did when going through Mosh Hamedani's Intermediate C# course.
 I bought and completed this course to reinforce my OOP and Classes knowledge and skills. I also learned how to properly leverage interfaces in C#. Previously I had experience with interfaces but never understood how to properly implement them... until now!
 
 Course Curriculum
-
  * Work with classes, constructors, fields, properties, methods and indexers
  * Use encapsulation to improve the robustness of the code and reduce the impact of change
  * Re-use code using inheritance and composition
