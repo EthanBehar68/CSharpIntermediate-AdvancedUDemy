@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CSharpIntermediateUDemy
+namespace UDemyCSharpIntermediate
 {
     class Program
     {

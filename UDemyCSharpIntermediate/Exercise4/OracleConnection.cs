@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace CSharpIntermediateUDemy
+namespace UDemyCSharpIntermediate
 {
     class OracleConnection : DbConnection
     {

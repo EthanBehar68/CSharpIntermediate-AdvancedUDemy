@@ -1,4 +1,4 @@
-﻿namespace CSharpIntermediateUDemy
+﻿namespace UDemyCSharpIntermediate
 {
     public interface ITask
     {
